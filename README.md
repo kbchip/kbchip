@@ -5,5 +5,4 @@
 - 📫 How to reach me:
   - Business: chaskins@nau.edu
   - Personal: charlieshaskins@gmail.com 
-- 😄 Pronouns: he/they
 - ⚡ Fun fact: I started programming when I was 12!
