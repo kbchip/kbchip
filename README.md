@@ -2,5 +2,5 @@
 - 👀 I’m interested in modding video games like Minecraft and Team Fortress 2
 - 🌱 I’m currently learning C and Rust
 - 💞️ I’m looking to collaborate on open-source project backends
-- 📫 How to reach me: chaskins@nau.edu
+- 📫 How to reach me: charlieshaskins@gmail.com
 - ⚡ Fun fact: I started programming when I was 12!
